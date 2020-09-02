@@ -17,12 +17,12 @@ DDoS tool
 * [Pinject](https://github.com/Vexvain/Pinject/tree/master/)
 
 # How to use	 
-'  _   _ ______ _____  _    _ _____ _      _____ __  __ 
-  | \ | |  ____|  __ \| |  | |_   _| |    |_   _|  \/  |
-  |  \| | |__  | |__) | |__| | | | | |      | | | \  / |
-  | . ` |  __| |  ___/|  __  | | | | |      | | | |\/| |
-  | |\  | |____| |    | |  | |_| |_| |____ _| |_| |  | |
-  |_| \_|______|_|    |_|  |_|_____|______|_____|_|  |_|
+```  _   _ ______ _____  _    _ _____ _      _____ __  __ 
+    | \ | |  ____|  __ \| |  | |_   _| |    |_   _|  \/  |
+    |  \| | |__  | |__) | |__| | | | | |      | | | \  / |
+    | . ` |  __| |  ___/|  __  | | | | |      | | | |\/| |
+    | |\  | |____| |    | |  | |_| |_| |____ _| |_| |  | |
+    |_| \_|______|_|    |_|  |_|_____|______|_____|_|  |_|
                                                        
 
 Usage: 
@@ -38,4 +38,4 @@ Options:
   -n FILE, --ntp=FILE   NTP Amplification file
   -s FILE, --snmp=FILE  SNMP Amplification file
   -p FILE, --ssdp=FILE  SSDP Amplification file
-  -t N, --threads=N     Number of threads (default=1)`
+  -t N, --threads=N     Number of threads (default=1)
